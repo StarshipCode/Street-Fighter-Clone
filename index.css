@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+canvas{
+    display: block;
+    border: 1px solid #333;
+    border-radius: 3px;
+    margin: auto;
+    background-color: rgb(37, 35, 35);
+}
+body{
+    padding-top: 20px;
+    height:100vh;
+    background: linear-gradient(to bottom, rgb(116, 116, 116), #000);
+}
